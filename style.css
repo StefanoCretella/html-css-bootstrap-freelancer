@@ -9,3 +9,12 @@ header{
     height: 62px;
     background-color: rgba(44,62,80,255);
 }
+
+/* MAIN 1 */
+#jumbo{
+    background-color: rgba(26,188,156,255);
+}
+
+.fs-1 {
+    font-size: 4.5rem !important;
+}
