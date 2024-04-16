@@ -23,3 +23,8 @@ header{
 .fs-2{
     font-size: 3rem !important;
 }
+
+/* MAIN 3 */
+#about{
+    background-color: rgba(26,188,156,255);
+}
